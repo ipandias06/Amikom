@@ -1,0 +1,2 @@
+# Amikom
+project pertama
